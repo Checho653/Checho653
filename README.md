@@ -19,7 +19,7 @@ JavaScript (DOM, async/await, APIs) · React · Web accessibility
 Spanish (native) · English (C1)
 
 ## 📫 Contact
-[LinkedIn](www.linkedin.com/in/ing-sergio-zapata) · [Email](mailto:ingsergiozapata653@gmail.com?subject=Hola%20Sergio)
+[LinkedIn](https://www.linkedin.com/in/ing-sergio-zapata) · [Email](mailto:ingsergiozapata653@gmail.com?subject=Hola%20Sergio)
 
 <details>
 <summary>🇪🇸 Versión en español</summary>
